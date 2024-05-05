@@ -3,8 +3,8 @@
 
 ## Aqui um pouco da minha historio profisional
 
-<p align="justify"> Minha jornada profissional na Vivo foi fundamental para o desenvolvimento das minhas habilidades técnicas e gerenciais. Durante esse período, tive a oportunidade de desempenhar as mesmas funções, fornecendo suporte sistêmico aos técnicos e supervisores, garantindo o fluxo eficiente das operações e comunicando a inviabilidade de instalação em determinadas áreas.
-Essa vivência na Vivo despertou meu interesse pela área de desenvolvimento de software. Atualmente, estou cursando Engenharia da Computação para aprimorar minhas habilidades técnicas e adquirir conhecimentos mais profundos em programação e tecnologia da informação. Minha formação anterior como técnico em administração forneceu uma base sólida em gestão de processos, enquanto meu conhecimento básico de espanhol amplia minha capacidade de comunicação em um ambiente multicultural.
+<p align="justify"> Minha jornada profissional na Vivo foi fundamental para o desenvolvimento das minhas habilidades técnicas e gerenciais. Durante esse período, fornecendo suporte sistêmico aos técnicos e supervisores, garantindo o fluxo eficiente das operações e comunicando a inviabilidade de instalação em determinadas áreas, sendo analitico.
+Essa vivência na Vivo despertou meu interesse pela área de desenvolvimento de software. Atualmente, estou cursando Engenharia da Computação para aprimorar minhas habilidades técnicas e adquirir conhecimentos mais profundos em programação e tecnologia, Minha formação anterior como técnico em administração forneceu uma base sólida em gestão de processos, enquanto meu conhecimento básico de espanhol amplia minha capacidade de comunicação em um ambiente multicultural.
 Além disso, sou um voluntário ativo na Paróquia São Judas Tadeu, onde contribuo na contagem de ofertas e dízimo, serviço ao altar de Deus, participação na Pastoral da Comunicação (Pascom). Essa experiência me ensinou a importância do trabalho em equipe, comprometimento com a comunidade e responsabilidade social.
 
 
