@@ -1,5 +1,5 @@
 
-## Óla me chamo Gabriel da Costa Lopes Muniz😊
+## Óla me chamo Gabriel da Costa Lopes Muniz😄
 
 ## Aqui um pouco da minha historio profisional
 
